@@ -16,23 +16,6 @@ Mapeamento usado:
 - Ep 13-24: batch 13-24, `fileIdx = episódio - 13`
 - Ep 25-38: batch 25-38, `fileIdx = episódio - 25`
 
-## Como publicar no GitHub Pages
-
-1. Crie um repositório público no GitHub, por exemplo `jojo-somestuffs-stremio-addon`.
-2. Suba todos estes arquivos na raiz do repositório. A raiz precisa conter `manifest.json`, `catalog/`, `meta/` e `stream/`.
-3. No GitHub, vá em `Settings > Pages`.
-4. Em `Build and deployment`, selecione `Deploy from a branch`.
-5. Selecione `main` e `/root`.
-6. Aguarde o GitHub Pages publicar.
-
-A URL do manifest deve ficar assim:
-
-```txt
-https://SEU_USUARIO.github.io/NOME_DO_REPO/manifest.json
-```
-
-Instale essa URL no Stremio.
-
 ## Como usar no Stremio
 
 1. Instale o addon pela URL do `manifest.json`.
