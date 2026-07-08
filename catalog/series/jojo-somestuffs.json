@@ -1,0 +1,28 @@
+{
+  "metas": [
+    {
+      "id": "ss-stone-ocean",
+      "type": "series",
+      "name": "JoJo Stone Ocean [Some-Stuffs] AUTO 01-38",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/JoJo%27s_Bizarre_Adventure_Stone_Ocean_key_visual.jpg"
+    },
+    {
+      "id": "ss-batch1-raw",
+      "type": "series",
+      "name": "RAW PICKER · Batch 01-12",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/JoJo%27s_Bizarre_Adventure_Stone_Ocean_key_visual.jpg"
+    },
+    {
+      "id": "ss-batch2-raw",
+      "type": "series",
+      "name": "RAW PICKER · Batch 13-24",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/JoJo%27s_Bizarre_Adventure_Stone_Ocean_key_visual.jpg"
+    },
+    {
+      "id": "ss-batch3-raw",
+      "type": "series",
+      "name": "RAW PICKER · Batch 25-38",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/JoJo%27s_Bizarre_Adventure_Stone_Ocean_key_visual.jpg"
+    }
+  ]
+}

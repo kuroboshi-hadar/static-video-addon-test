@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs idx 10",
+      "title": "idx 10 · Ep 35 · 1.1 GiB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 35 (1920x1080 Blu-Ray Opus) v2 [1C473D8F].mkv",
+      "description": "idx 10 · Ep 35 · 1.1 GiB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 35 (1920x1080 Blu-Ray Opus) v2 [1C473D8F].mkv",
+      "infoHash": "64141a472c5a2db7c7abe58a4114cd76be467176",
+      "fileIdx": 10,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-b3-idx10",
+        "filename": "[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 35 (1920x1080 Blu-Ray Opus) v2 [1C473D8F].mkv"
+      }
+    }
+  ]
+}

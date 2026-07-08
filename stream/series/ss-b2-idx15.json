@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs idx 15",
+      "title": "idx 15 · EXTRA · 206.38 MB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean NCOP2 (1920x1080 Blu-Ray Opus) [CFD1E85D].mkv",
+      "description": "idx 15 · EXTRA · 206.38 MB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean NCOP2 (1920x1080 Blu-Ray Opus) [CFD1E85D].mkv",
+      "infoHash": "77c1054d9e3b9b5363c5827a64aa521a92660b10",
+      "fileIdx": 15,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-b2-idx15",
+        "filename": "[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean NCOP2 (1920x1080 Blu-Ray Opus) [CFD1E85D].mkv"
+      }
+    }
+  ]
+}

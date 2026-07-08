@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs idx 06",
+      "title": "idx 06 · Ep 19 · 916.44 MB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 19 (1920x1080 Blu-Ray Opus) v2 [B2C5ADE5].mkv",
+      "description": "idx 06 · Ep 19 · 916.44 MB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 19 (1920x1080 Blu-Ray Opus) v2 [B2C5ADE5].mkv",
+      "infoHash": "77c1054d9e3b9b5363c5827a64aa521a92660b10",
+      "fileIdx": 6,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-b2-idx06",
+        "filename": "[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 19 (1920x1080 Blu-Ray Opus) v2 [B2C5ADE5].mkv"
+      }
+    }
+  ]
+}

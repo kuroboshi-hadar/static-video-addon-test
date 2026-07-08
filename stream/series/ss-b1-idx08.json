@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs idx 08",
+      "title": "idx 08 · Ep 09 · 1010.1 MiB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 09 (1920x1080 Blu-Ray OPUS) [5F88539D].mkv",
+      "description": "idx 08 · Ep 09 · 1010.1 MiB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 09 (1920x1080 Blu-Ray OPUS) [5F88539D].mkv",
+      "infoHash": "210187822a05188d56ac8e7f517680e3b08f800e",
+      "fileIdx": 8,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-b1-idx08",
+        "filename": "[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 09 (1920x1080 Blu-Ray OPUS) [5F88539D].mkv"
+      }
+    }
+  ]
+}

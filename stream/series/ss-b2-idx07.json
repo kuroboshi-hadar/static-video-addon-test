@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs idx 07",
+      "title": "idx 07 · Ep 20 · 1.05 GB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 20 (1920x1080 Blu-Ray Opus) [53C05949].mkv",
+      "description": "idx 07 · Ep 20 · 1.05 GB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 20 (1920x1080 Blu-Ray Opus) [53C05949].mkv",
+      "infoHash": "77c1054d9e3b9b5363c5827a64aa521a92660b10",
+      "fileIdx": 7,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-b2-idx07",
+        "filename": "[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 20 (1920x1080 Blu-Ray Opus) [53C05949].mkv"
+      }
+    }
+  ]
+}

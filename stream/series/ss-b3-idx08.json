@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs idx 08",
+      "title": "idx 08 · Ep 33 · 1.3 GiB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 33 (1920x1080 Blu-Ray Opus) v2 [E81A3C26].mkv",
+      "description": "idx 08 · Ep 33 · 1.3 GiB\n[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 33 (1920x1080 Blu-Ray Opus) v2 [E81A3C26].mkv",
+      "infoHash": "64141a472c5a2db7c7abe58a4114cd76be467176",
+      "fileIdx": 8,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-b3-idx08",
+        "filename": "[Some-Stuffs] Jojo's Bizarre Adventure Stone Ocean 33 (1920x1080 Blu-Ray Opus) v2 [E81A3C26].mkv"
+      }
+    }
+  ]
+}
