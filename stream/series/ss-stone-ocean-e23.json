@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "name": "Some-Stuffs BD 1080p",
+      "title": "Stone Ocean 23 · Some-Stuffs BD 1080p OPUS · batch 13-24 · fileIdx 10",
+      "infoHash": "77c1054d9e3b9b5363c5827a64aa521a92660b10",
+      "fileIdx": 10,
+      "sources": [
+        "tracker:http://nyaa.tracker.wf:7777/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://exodus.desync.com:6969/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "behaviorHints": {
+        "bingeGroup": "somestuffs-stone-ocean-13-24"
+      }
+    }
+  ]
+}
