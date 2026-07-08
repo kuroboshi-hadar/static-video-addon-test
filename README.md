@@ -1,22 +1,13 @@
-# JoJo Stone Ocean - Some-Stuffs Raw Picker
+# JoJo Stone Ocean - Some-Stuffs Raw Picker FIX v1.4
 
-Addon estático do Stremio para os batches Some-Stuffs de Stone Ocean.
+Addon estático para Stremio usando `infoHash + fileIdx`.
 
-## O que tem aqui
+Nesta versão os arquivos de stream AUTO são pequenos e não devem subir vazios no GitHub. O addon também inclui RAW PICKER para escolher pelo `fileIdx` de cada batch.
 
-- `JoJo Stone Ocean [Some-Stuffs] AUTO 01-38`: episódios 01-38; cada episódio tenta abrir o arquivo correto via `infoHash` + `fileIdx`.
-- `RAW PICKER · Batch 01-12`, `13-24`, `25-38`: lista crua dos arquivos por `fileIdx`. Use isto se algum AUTO abrir errado.
+## Instalação
 
-## Como atualizar no GitHub Pages
+Suba o conteúdo desta pasta na raiz do repositório GitHub Pages. Depois instale:
 
-Suba o conteúdo desta pasta na raiz do repo público e espere o GitHub Pages atualizar.
-Depois reinstale o addon pelo manifest:
+`https://SEU_USUARIO.github.io/NOME_DO_REPO/manifest.json`
 
-```txt
-https://SEU_USUARIO.github.io/NOME_DO_REPO/manifest.json
-```
-
-## Observação
-
-GitHub Pages é estático; ele não consegue baixar o magnet e rodar regex no arquivo `.torrent` na hora.
-Por isso os nomes/índices estão pré-mapeados aqui.
+Se o Stremio cachear, desinstale o addon antigo e instale de novo. O ID desta versão é diferente: `community.jojo.somestuffs.stoneocean.rawpicker.v14`.
